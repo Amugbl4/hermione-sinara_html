@@ -1,0 +1,25 @@
+{
+  "name": "hermione-sinara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hermione.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "hermione": "^1.2.2",
+    "html-reporter": "^3.1.2",
+    "json-reporter": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "selenium:start": "selenium-standalone start",
+    "start": "npx npm-run-all --parallel selenium:start hermione:gui",
+    "hermione": "node_modules/.bin/hermione",
+    "hermione:gui": "hermione gui"
+  },
+  "author": "Mekerov_Dmitry",
+  "license": "ISC"
+}
