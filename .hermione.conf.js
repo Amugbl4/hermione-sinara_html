@@ -1,11 +1,11 @@
 module.exports = {
     
-    baseUrl: 'http://svx.aero',
+    baseUrl: 'http://html.uplab.digital/sinara.frontend/dist/',
     //waitTimeout: 1000,
     screenshotDelay: 3000,
     sets: {
         all: {
-            files: 'test/desktop'
+            files: 'test'
         },
         /* desktop: {
             files: 'test/desktop/test.js'
@@ -16,7 +16,7 @@ module.exports = {
         chrome_fhd: {
             compositeImage: true,
             windowSize: '1920x1080',
-            screenshotsDir: 'screen/svx/chrome/1920',
+            screenshotsDir: 'screen/sinara/chrome/1920',
             desiredCapabilities: {
                 browserName: 'chrome',
                 chromeOptions: {
@@ -28,7 +28,7 @@ module.exports = {
          chrome_1440: {
              compositeImage: true,
              windowSize: '1440x900',
-             screenshotsDir: 'screen/svx/chrome/1440',
+             screenshotsDir: 'screen/sinara/chrome/1440',
              desiredCapabilities: {
                  browserName: 'chrome',
                  chromeOptions: {
@@ -37,8 +37,8 @@ module.exports = {
              }
          },
  
-         mobile: {
-             screenshotsDir: 'screen/svx/chrome/mobile',
+        /*  mobile: {
+             screenshotsDir: 'screen/sinara/chrome/mobile',
              compositeImage: true, 
              desiredCapabilities: {
                  browserName: 'chrome',
@@ -82,13 +82,13 @@ module.exports = {
         ie11_fhd: {
             compositeImage: true,
             windowSize: '1440x900',
-            screenshotsDir: 'screen/svx/ie/1440',
+            screenshotsDir: 'screen/sinara/ie/1440',
             desiredCapabilities: {
                 browserName: 'internet explorer',
                 version: '11',
                 'ie.enableFullPageScreenshot': false
             },
-        },
+        }, */
 
         /* edge: {
             compositeImage: true,

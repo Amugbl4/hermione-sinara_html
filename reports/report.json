@@ -1,0 +1,308 @@
+{
+  "main_page header.chrome_1440": {
+    "fullName": "main_page header",
+    "browserId": "chrome_1440",
+    "file": "test\\main.js",
+    "duration": 9483,
+    "meta": {
+      "pid": 17328,
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "main_page header.chrome_fhd": {
+    "fullName": "main_page header",
+    "browserId": "chrome_fhd",
+    "file": "test\\main.js",
+    "duration": 10680,
+    "meta": {
+      "pid": 17328,
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "main_page header-submenu.chrome_1440": {
+    "fullName": "main_page header-submenu",
+    "browserId": "chrome_1440",
+    "file": "test\\main.js",
+    "duration": 2469,
+    "meta": {
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "fail",
+    "errorReason": "Error: An unknown server-side error occurred while processing the command.\n    at elementIdClick(\"0.00640390425049242-1\") - C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\commands\\click.js:20:22",
+    "retries": [
+      {
+        "error": "Error: An unknown server-side error occurred while processing the command.\n    at elementIdClick(\"0.00640390425049242-1\") - C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\commands\\click.js:20:22"
+      }
+    ]
+  },
+  "main_page section_with_card.chrome_1440": {
+    "fullName": "main_page section_with_card",
+    "browserId": "chrome_1440",
+    "file": "test\\main.js",
+    "duration": 8293,
+    "meta": {
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "main_page header-submenu.chrome_fhd": {
+    "fullName": "main_page header-submenu",
+    "browserId": "chrome_fhd",
+    "file": "test\\main.js",
+    "duration": 10473,
+    "meta": {
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules btn-outline-gray.chrome_1440": {
+    "fullName": "molecules btn-outline-gray",
+    "browserId": "chrome_1440",
+    "file": "test\\molecules.js",
+    "duration": 7865,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "main_page section_with_card.chrome_fhd": {
+    "fullName": "main_page section_with_card",
+    "browserId": "chrome_fhd",
+    "file": "test\\main.js",
+    "duration": 8945,
+    "meta": {
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules btn-red.chrome_1440": {
+    "fullName": "molecules btn-red",
+    "browserId": "chrome_1440",
+    "file": "test\\molecules.js",
+    "duration": 7604,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules btn-outline-gray.chrome_fhd": {
+    "fullName": "molecules btn-outline-gray",
+    "browserId": "chrome_fhd",
+    "file": "test\\molecules.js",
+    "duration": 7903,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules header.chrome_1440": {
+    "fullName": "molecules header",
+    "browserId": "chrome_1440",
+    "file": "test\\molecules.js",
+    "duration": 4189,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules footer.chrome_1440": {
+    "fullName": "molecules footer",
+    "browserId": "chrome_1440",
+    "file": "test\\molecules.js",
+    "duration": 609,
+    "meta": {
+      "url": "/sinara.frontend/dist/plain",
+      "file": "test\\molecules.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/plain",
+    "status": "fail",
+    "errorReason": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)",
+    "retries": [
+      {
+        "error": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"
+      }
+    ]
+  },
+  "molecules btn-red.chrome_fhd": {
+    "fullName": "molecules btn-red",
+    "browserId": "chrome_fhd",
+    "file": "test\\molecules.js",
+    "duration": 7609,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules dropdown-select.chrome_1440": {
+    "fullName": "molecules dropdown-select",
+    "browserId": "chrome_1440",
+    "file": "test\\molecules.js",
+    "duration": 7468,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules header.chrome_fhd": {
+    "fullName": "molecules header",
+    "browserId": "chrome_fhd",
+    "file": "test\\molecules.js",
+    "duration": 4166,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules footer.chrome_fhd": {
+    "fullName": "molecules footer",
+    "browserId": "chrome_fhd",
+    "file": "test\\molecules.js",
+    "duration": 626,
+    "meta": {
+      "url": "/sinara.frontend/dist/plain",
+      "file": "test\\molecules.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/plain",
+    "status": "fail",
+    "errorReason": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)",
+    "retries": [
+      {
+        "error": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"
+      }
+    ]
+  },
+  "molecules dropdown-select.chrome_fhd": {
+    "fullName": "molecules dropdown-select",
+    "browserId": "chrome_fhd",
+    "file": "test\\molecules.js",
+    "duration": 7791,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  }
+}
