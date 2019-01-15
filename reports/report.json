@@ -3,12 +3,12 @@
     "fullName": "main_page header",
     "browserId": "chrome_1440",
     "file": "test\\main.js",
-    "duration": 9483,
+    "duration": 8257,
     "meta": {
-      "pid": 17328,
+      "pid": 11416,
       "url": "/sinara.frontend/dist/main.html",
       "file": "test\\main.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
     },
     "url": "/sinara.frontend/dist/main.html",
     "status": "fail",
@@ -23,12 +23,12 @@
     "fullName": "main_page header",
     "browserId": "chrome_fhd",
     "file": "test\\main.js",
-    "duration": 10680,
+    "duration": 9134,
     "meta": {
-      "pid": 17328,
+      "pid": 11416,
       "url": "/sinara.frontend/dist/main.html",
       "file": "test\\main.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
     },
     "url": "/sinara.frontend/dist/main.html",
     "status": "fail",
@@ -43,30 +43,11 @@
     "fullName": "main_page header-submenu",
     "browserId": "chrome_1440",
     "file": "test\\main.js",
-    "duration": 2469,
+    "duration": 7556,
     "meta": {
       "url": "/sinara.frontend/dist/main.html",
       "file": "test\\main.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
-    },
-    "url": "/sinara.frontend/dist/main.html",
-    "status": "fail",
-    "errorReason": "Error: An unknown server-side error occurred while processing the command.\n    at elementIdClick(\"0.00640390425049242-1\") - C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\commands\\click.js:20:22",
-    "retries": [
-      {
-        "error": "Error: An unknown server-side error occurred while processing the command.\n    at elementIdClick(\"0.00640390425049242-1\") - C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\commands\\click.js:20:22"
-      }
-    ]
-  },
-  "main_page section_with_card.chrome_1440": {
-    "fullName": "main_page section_with_card",
-    "browserId": "chrome_1440",
-    "file": "test\\main.js",
-    "duration": 8293,
-    "meta": {
-      "url": "/sinara.frontend/dist/main.html",
-      "file": "test\\main.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
     },
     "url": "/sinara.frontend/dist/main.html",
     "status": "fail",
@@ -81,11 +62,11 @@
     "fullName": "main_page header-submenu",
     "browserId": "chrome_fhd",
     "file": "test\\main.js",
-    "duration": 10473,
+    "duration": 9101,
     "meta": {
       "url": "/sinara.frontend/dist/main.html",
       "file": "test\\main.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
     },
     "url": "/sinara.frontend/dist/main.html",
     "status": "fail",
@@ -96,17 +77,17 @@
       }
     ]
   },
-  "molecules btn-outline-gray.chrome_1440": {
-    "fullName": "molecules btn-outline-gray",
+  "main_page section_with_card.chrome_1440": {
+    "fullName": "main_page section_with_card",
     "browserId": "chrome_1440",
-    "file": "test\\molecules.js",
-    "duration": 7865,
+    "file": "test\\main.js",
+    "duration": 6295,
     "meta": {
-      "url": "/sinara.frontend/dist/molecules.html",
-      "file": "test\\molecules.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
     },
-    "url": "/sinara.frontend/dist/molecules.html",
+    "url": "/sinara.frontend/dist/main.html",
     "status": "fail",
     "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
     "retries": [
@@ -114,16 +95,29 @@
         "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
       }
     ]
+  },
+  "main_page work btn all material.chrome_1440": {
+    "fullName": "main_page work btn all material",
+    "browserId": "chrome_1440",
+    "file": "test\\main.js",
+    "duration": 2574,
+    "meta": {
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "success"
   },
   "main_page section_with_card.chrome_fhd": {
     "fullName": "main_page section_with_card",
     "browserId": "chrome_fhd",
     "file": "test\\main.js",
-    "duration": 8945,
+    "duration": 7269,
     "meta": {
       "url": "/sinara.frontend/dist/main.html",
       "file": "test\\main.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
     },
     "url": "/sinara.frontend/dist/main.html",
     "status": "fail",
@@ -134,15 +128,28 @@
       }
     ]
   },
-  "molecules btn-red.chrome_1440": {
-    "fullName": "molecules btn-red",
+  "main_page work btn all material.chrome_fhd": {
+    "fullName": "main_page work btn all material",
+    "browserId": "chrome_fhd",
+    "file": "test\\main.js",
+    "duration": 2279,
+    "meta": {
+      "url": "/sinara.frontend/dist/main.html",
+      "file": "test\\main.js",
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
+    },
+    "url": "/sinara.frontend/dist/main.html",
+    "status": "success"
+  },
+  "molecules btn-outline-gray.chrome_1440": {
+    "fullName": "molecules btn-outline-gray",
     "browserId": "chrome_1440",
     "file": "test\\molecules.js",
-    "duration": 7604,
+    "duration": 6104,
     "meta": {
       "url": "/sinara.frontend/dist/molecules.html",
       "file": "test\\molecules.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
     },
     "url": "/sinara.frontend/dist/molecules.html",
     "status": "fail",
@@ -157,11 +164,30 @@
     "fullName": "molecules btn-outline-gray",
     "browserId": "chrome_fhd",
     "file": "test\\molecules.js",
-    "duration": 7903,
+    "duration": 5901,
     "meta": {
       "url": "/sinara.frontend/dist/molecules.html",
       "file": "test\\molecules.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules btn-red.chrome_1440": {
+    "fullName": "molecules btn-red",
+    "browserId": "chrome_1440",
+    "file": "test\\molecules.js",
+    "duration": 5539,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
     },
     "url": "/sinara.frontend/dist/molecules.html",
     "status": "fail",
@@ -176,11 +202,30 @@
     "fullName": "molecules header",
     "browserId": "chrome_1440",
     "file": "test\\molecules.js",
-    "duration": 4189,
+    "duration": 2958,
     "meta": {
       "url": "/sinara.frontend/dist/molecules.html",
       "file": "test\\molecules.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules btn-red.chrome_fhd": {
+    "fullName": "molecules btn-red",
+    "browserId": "chrome_fhd",
+    "file": "test\\molecules.js",
+    "duration": 6289,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
     },
     "url": "/sinara.frontend/dist/molecules.html",
     "status": "fail",
@@ -195,49 +240,11 @@
     "fullName": "molecules footer",
     "browserId": "chrome_1440",
     "file": "test\\molecules.js",
-    "duration": 609,
-    "meta": {
-      "url": "/sinara.frontend/dist/plain",
-      "file": "test\\molecules.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
-    },
-    "url": "/sinara.frontend/dist/plain",
-    "status": "fail",
-    "errorReason": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)",
-    "retries": [
-      {
-        "error": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"
-      }
-    ]
-  },
-  "molecules btn-red.chrome_fhd": {
-    "fullName": "molecules btn-red",
-    "browserId": "chrome_fhd",
-    "file": "test\\molecules.js",
-    "duration": 7609,
+    "duration": 3128,
     "meta": {
       "url": "/sinara.frontend/dist/molecules.html",
       "file": "test\\molecules.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
-    },
-    "url": "/sinara.frontend/dist/molecules.html",
-    "status": "fail",
-    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
-    "retries": [
-      {
-        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
-      }
-    ]
-  },
-  "molecules dropdown-select.chrome_1440": {
-    "fullName": "molecules dropdown-select",
-    "browserId": "chrome_1440",
-    "file": "test\\molecules.js",
-    "duration": 7468,
-    "meta": {
-      "url": "/sinara.frontend/dist/molecules.html",
-      "file": "test\\molecules.js",
-      "sessionId": "08d922dd9d25772725a7c1646a4e5c29"
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
     },
     "url": "/sinara.frontend/dist/molecules.html",
     "status": "fail",
@@ -252,11 +259,11 @@
     "fullName": "molecules header",
     "browserId": "chrome_fhd",
     "file": "test\\molecules.js",
-    "duration": 4166,
+    "duration": 3379,
     "meta": {
       "url": "/sinara.frontend/dist/molecules.html",
       "file": "test\\molecules.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
     },
     "url": "/sinara.frontend/dist/molecules.html",
     "status": "fail",
@@ -271,18 +278,37 @@
     "fullName": "molecules footer",
     "browserId": "chrome_fhd",
     "file": "test\\molecules.js",
-    "duration": 626,
+    "duration": 3367,
     "meta": {
-      "url": "/sinara.frontend/dist/plain",
+      "url": "/sinara.frontend/dist/molecules.html",
       "file": "test\\molecules.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
     },
-    "url": "/sinara.frontend/dist/plain",
+    "url": "/sinara.frontend/dist/molecules.html",
     "status": "fail",
-    "errorReason": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
     "retries": [
       {
-        "error": "ClientBridgeError: Could not find element with css selector specified in setCaptureElements: null\n    at Object._browser.evalScript.then (C:\\Myprojects\\hermione-sinara_html\\node_modules\\gemini-core\\lib\\client-bridge\\client-bridge.js:29:43)\n    at Object.exec (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\helpers\\safeExecute.js:28:24)\n    at Object.resolve (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:191:29)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\build\\lib\\webdriverio.js:540:32\n    at _fulfilled (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:854:54)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:883:30\n    at Promise.promise.promiseDispatch (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:816:13)\n    at C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:624:44\n    at runSingle (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Myprojects\\hermione-sinara_html\\node_modules\\@gemini-testing\\webdriverio\\node_modules\\q\\q.js:125:13)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
+      }
+    ]
+  },
+  "molecules dropdown-select.chrome_1440": {
+    "fullName": "molecules dropdown-select",
+    "browserId": "chrome_1440",
+    "file": "test\\molecules.js",
+    "duration": 5518,
+    "meta": {
+      "url": "/sinara.frontend/dist/molecules.html",
+      "file": "test\\molecules.js",
+      "sessionId": "868616b7a32303fe1ecba5126b52d2ae"
+    },
+    "url": "/sinara.frontend/dist/molecules.html",
+    "status": "fail",
+    "errorReason": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)",
+    "retries": [
+      {
+        "error": "AssertViewError: image comparison failed\n    at TestRunner.run (C:\\Myprojects\\hermione-sinara_html\\node_modules\\hermione\\lib\\worker\\runner\\test-runner\\index.js:64:21)"
       }
     ]
   },
@@ -290,11 +316,11 @@
     "fullName": "molecules dropdown-select",
     "browserId": "chrome_fhd",
     "file": "test\\molecules.js",
-    "duration": 7791,
+    "duration": 5723,
     "meta": {
       "url": "/sinara.frontend/dist/molecules.html",
       "file": "test\\molecules.js",
-      "sessionId": "c2956e0ac7fa8b1557e7e144d96f9e74"
+      "sessionId": "c9acaac3fd6e033541c5c561d47f660c"
     },
     "url": "/sinara.frontend/dist/molecules.html",
     "status": "fail",

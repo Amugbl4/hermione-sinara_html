@@ -40,4 +40,15 @@ describe('main_page', function () {
             .moveToObject('#content-after-screen > section:nth-child(1) > div > div > div.swiper-wrapper > div:nth-child(1)')
             .assertView('hovered', '#content-after-screen > section:nth-child(1)')
     });
+
+    it('work btn all material', function () {
+        return this.browser
+            .url('main.html')
+            .click('#content-after-screen > section:nth-child(1) > div > div > div.section-bottom > div > a')
+            .getText('h1')
+            .then(function (title) {
+                assert.equal(title, 'Медиа')
+            });
+    });
+
 });  

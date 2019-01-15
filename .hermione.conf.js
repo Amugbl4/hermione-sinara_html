@@ -2,7 +2,7 @@ module.exports = {
     
     baseUrl: 'http://html.uplab.digital/sinara.frontend/dist/',
     //waitTimeout: 1000,
-    screenshotDelay: 3000,
+    screenshotDelay: 2000,
     sets: {
         all: {
             files: 'test'
